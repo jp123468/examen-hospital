@@ -6,9 +6,9 @@ const options = {
   swaggerDefinition: {
     openapi: "3.0.0",
     info: {
-      title: "API Matriculas",
+      title: "API Gestion Citas Medicas",
       version: "1.0.0",
-      descripcion: "Documentation Matriculas Api",
+      descripcion: "Documentation Citas Medicas Api",
     },
     components: {
       securitySchemes: {
